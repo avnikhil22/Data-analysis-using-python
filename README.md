@@ -1,2 +1,2 @@
 # Data-analysis-using-python
-This is a basic analysis of a Diabetic dataset to startwith
+Conducted exploratory analysis of a sample dataset of the diabetes population. Utilized python packages such as pandas and matplotlib to understand and interpret the data 
